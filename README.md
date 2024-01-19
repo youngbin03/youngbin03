@@ -1,5 +1,7 @@
 ### Hi there 👋
-https://tenor.com/bYe3n.gif
+
+![IMG_2982](https://github.com/youngbin03/youngbin03/assets/87307678/172b633e-5378-42f8-ba40-823df4772f60)
+
 <!--
 **youngbin03/youngbin03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
