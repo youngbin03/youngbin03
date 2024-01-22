@@ -4,4 +4,4 @@
 <p><em> 😎 SINOBIN <p><img src = "https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" > <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"></p>
 Be selected as Asia's most influential leader (under 30) in 2030 </em></p>
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sinobin)](https://solved.ac/sinobin)
