@@ -4,3 +4,4 @@
 <p><em> 😎 SINOBIN <p><img src = "https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" > <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"></p>
 Be selected as Asia's most influential leader (under 30) in 2030 </em></p>
 
+ <details><summary>Half year calendar</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.svg" alt=""></img></details>
