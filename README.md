@@ -1,12 +1,4 @@
-<!--
-  assets/ 이미지 플레이스홀더 — 아래 경로에 파일을 넣으면 자동 반영됩니다.
-  · assets/banner.png        1280 x 320  (프로필 상단 배너, 4:1 비율 권장)
-  필요 없으면 배너 <img> 줄을 삭제하세요.
--->
-
 <div align="center">
-
-<!-- <img src="assets/banner.png" width="100%" alt="Youngbin Shin" /> -->
 
 # 신영빈 · Youngbin Shin
 
@@ -33,14 +25,6 @@ AI의 불확실성은 제품 구조 안에서 제어합니다.
 그래서 기능 구현에서 멈추지 않고 **사용자가 반복해서 겪는 불편을 제품 구조로 줄이는 개발**에 집중합니다. 여러 서비스를 직접 기획·개발·운영했고, 동아리 대표·팀 리드로서 기획·디자인·개발 사이를 조율했습니다. 정답이 없는 상태에서도 문제를 빠르게 구조화하고, 작은 실험으로 판단 근거를 만듭니다.
 
 최근에는 AI를 제품에 녹일 때의 핵심을 **"AI 생성 결과의 불확실성을 제품 구조 안에서 어떻게 제어할지"** 로 보고, 슬라이드 합성 엔진 **Stencil**에서 이를 실험하고 있습니다.
-
-<div align="center">
-
-|  35만+  |  3,000+  |  ×2  |  5인  |
-| :---: | :---: | :---: | :---: |
-| 누적 페이지뷰 | 누적 사용자 | 떠리 월매출 성장 (4개월) | 팀 리드 (떠리) |
-
-</div>
 
 ---
 
@@ -108,24 +92,6 @@ AI의 불확실성은 제품 구조 안에서 제어합니다.
 
 ---
 
-## How I Work — 판단을 데이터로, 데이터에서 시스템으로
-
-데이터를 사후 설명이 아니라 **의사결정의 기준**으로 사용합니다. 제품을 시작하고, 방향을 바꾸고, 종료하고, 이제는 판단 기준 자체를 시스템화하고 있습니다.
-
-| 시점 | | |
-| :--- | :--- | :--- |
-| **2024 · 관찰** | 불편함을 제품으로 | 흩어진 학식 정보를 통합하고 예외 흐름까지 설계해 2,000+ 사용자 확보 |
-| **2025 · 반응** | 이탈을 보고 방향을 바꾸다 | 진입장벽을 원인으로 확인, AI 채팅형으로 제품 형태 전환 (CLIP) |
-| **2025 · 행동 데이터** | 증거를 보고 제품을 끝내다 | 전환율 11%·재구매 2명 → 가능성보다 증거를 믿고 종료 (떠리) |
-| **2026 · 자동 지표** | 판단 기준을 시스템화하다 | 슬라이드 품질 판단을 7개 지표로 자동화, 의사결정을 제품 구조에 내재화 (Stencil) |
-
----
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=youngbin03&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=graywhite&hide=contribs" height="150" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngbin03&layout=compact&hide_border=true&theme=graywhite&langs_count=6" height="150" alt="top langs" />
-
 <sub>© 2026 신영빈 · 한양대학교 컴퓨터소프트웨어학부</sub>
-
 </div>
